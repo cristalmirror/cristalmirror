@@ -66,3 +66,4 @@ Many of my projects are built with the help of manuals, technical documentation 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
