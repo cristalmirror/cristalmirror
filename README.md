@@ -6,7 +6,7 @@ I'm a Computer Engineering student who loves **low-level programming**. My main 
 
 Many of my projects are built with the help of manuals, technical documentation and AI. I know I still have a lot to learn and my software isn't perfect, so if you want to fix or redesign any part of my projects, feel free to open a Pull Request.
 
-## ⚙️ Core Languages: C & Rust
+## ⚙️ Core Languages: C/C++ & Rust
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
