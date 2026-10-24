@@ -18,7 +18,6 @@ Many of my projects are built with the help of manuals, technical documentation 
 ### Other languages
 
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,7 +30,7 @@ Many of my projects are built with the help of manuals, technical documentation 
 | [**inexcpu**](https://github.com/cristalmirror/inexcpu) | C | Terminal CPU monitor (per-core frequency) and scrollable process list built with **ncurses**, reading data straight from `/proc`. |
 | [**StudyStudio**](https://github.com/cristalmirror/StudyStudio) | C | Cross-platform **GTK4** desktop app with an XML UI (`GtkBuilder`), cross-compiled for Linux and Windows (**MinGW-w64**) through a Docker toolchain. |
 | [**AESExe**](https://github.com/cristalmirror/AESExe) | Rust | File encryption tool with **AES-128/192/256** and **ChaCha20** implemented from scratch, a CLI, an HTTPS server (**rustls**) and a browser extension. Originally written in C++. |
-| [**StarChat**](https://github.com/cristalmirror/StarChat) | Rust · Kotlin | Chat platform: async Rust server with REST + **WebSockets** (**Axum**), inter-server **gRPC** (**Tonic/Prost**) and **Redis**; Android client in Kotlin + Jetpack Compose and a Rust desktop client. |
+| [**StarChat**](https://github.com/cristalmirror/StarChat) | Rust | Chat platform: async Rust server with REST + **WebSockets** (**Axum**), inter-server **gRPC** (**Tonic/Prost**) and **Redis**; Android client and desktop client in Rust |
 | [**palabot**](https://github.com/cristalmirror/palabot) | Rust | Telegram bot (**Teloxide** + **Tokio**) that transcribes voice messages locally with **whisper.cpp** (`whisper-rs`) and **ffmpeg**, plus web search via SerpAPI. |
 
 ## 🧰 Frameworks & Libraries
