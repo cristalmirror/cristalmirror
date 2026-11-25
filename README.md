@@ -11,10 +11,10 @@ Many of my projects are built with the help of manuals, technical documentation 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)   
 - **C/C++** — close to the metal: reading `/proc`, terminal UIs with ncurses, native GTK4 desktop apps, Makefiles, GCC, cross-compilation with MinGW-w64, and debugging with GDB and sanitizers (ASan/UBSan).
 - **Rust** — safe systems programming: implementing crypto algorithms from scratch, async networking with Tokio, gRPC services, and fast, memory-safe servers.
-
+- **Python** — machine learning and scripting in proyectes to configure, testing and simulations.
 ### Other languages
 
 
