@@ -68,3 +68,13 @@ Many of my projects are built with the help of manuals, technical documentation 
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+## 📊 Most Used Languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cristalmirror&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cristalmirror&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=400">
+  <img alt="Most used languages across my GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristalmirror&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=400">
+</picture>
+
+> Stats generated automatically from all my public repositories.
